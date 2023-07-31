@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../assets/manan_padhiyar_resume.pdf";
+import resume from "../../assets/final-resume.pdf";
 
 const Data = () => {
   return (
