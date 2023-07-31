@@ -64,9 +64,9 @@ const Data = () => {
         web app. check out my projects below.
       </p>
       <a
-        href="../../assets/manan_padhiyar_resume.pdf"
+        href=""
         className="button button--flex"
-        download
+        download={"../../assets/manan_padhiyar_resume.pdf"}
       >
         Download Resume <span className="resume__logo">📄</span>
       </a>
