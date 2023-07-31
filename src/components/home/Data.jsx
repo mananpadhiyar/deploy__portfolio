@@ -64,11 +64,10 @@ const Data = () => {
         web app. check out my projects below.
       </p>
       <a
-        href="#contact"
+        href="../../assets/manan_padhiyar_resume.pdf"
         className="button button--flex"
-        download={"../../assets/manan_padhiyar_resume.pdf"}
       >
-        Download Resume📄
+        Download Resume <span className="resume__logo">📄</span>
       </a>
     </div>
   );

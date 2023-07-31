@@ -29,6 +29,10 @@
   color: #2978b5;
 }
 
+.resume__logo {
+  font-size: 20px;
+}
+
 .home__hand {
   width: 38px;
   height: 38px;
