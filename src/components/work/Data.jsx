@@ -38,8 +38,8 @@ export const projectData = [
     id: 4,
     image: work4,
     title: "Weather App",
-    category: "design",
-    tag: `#HTML #CSS $Javascript `,
+    category: "dynamic",
+    tag: `#HTML #CSS #Javascript `,
 
     live: "https://weather-app-by-manan.vercel.app/",
     github: "https://github.com/mananpadhiyar/weather-app",
@@ -58,6 +58,6 @@ export const projectNav = [
     name: "frontend",
   },
   {
-    name: "design",
+    name: "dynamic",
   },
 ];
