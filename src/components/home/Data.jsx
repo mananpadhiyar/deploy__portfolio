@@ -1,4 +1,5 @@
 import React from "react";
+import resume from "../../assets/manan_padhiyar_resume.pdf";
 
 const Data = () => {
   return (
@@ -63,11 +64,7 @@ const Data = () => {
         looking for new opportunities to learn and grow. I have built full stack
         web app. check out my projects below.
       </p>
-      <a
-        href=""
-        className="button button--flex"
-        download={"../../assets/manan_padhiyar_resume.pdf"}
-      >
+      <a href={resume} className="button button--flex" download="Resume">
         Download Resume <span className="resume__logo">📄</span>
       </a>
     </div>
