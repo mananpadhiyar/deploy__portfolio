@@ -1,7 +1,7 @@
 import work1 from "../../assets/crypto-hunder-ss.png";
 import work2 from "../../assets/zomato-clone01.png";
 import work3 from "../../assets/netflix-clone.png";
-import work4 from "../../assets/weather-app.png";
+import work4 from "../../assets/buy-honey.png";
 
 export const projectData = [
   {
@@ -38,11 +38,11 @@ export const projectData = [
     id: 4,
     image: work4,
     title: "Weather App",
-    category: "dynamic",
-    tag: `#HTML #CSS #Javascript `,
+    category: "design",
+    tag: `#HTML #CSS `,
 
-    live: "https://weather-app-by-manan.vercel.app/",
-    github: "https://github.com/mananpadhiyar/weather-app",
+    live: "https://buyhoney01.netlify.app",
+    github: "https://github.com/mananpadhiyar/buy_honey_website",
   },
 ];
 
@@ -58,6 +58,6 @@ export const projectNav = [
     name: "frontend",
   },
   {
-    name: "dynamic",
+    name: "design",
   },
 ];
