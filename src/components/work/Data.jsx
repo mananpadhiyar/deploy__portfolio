@@ -20,7 +20,7 @@ export const projectData = [
     title: "Zomato-App",
     category: "full stack",
     tag: `#ReactJS #MongoDB #ExpressJS  #Bootstrap`,
-    live: "https://zomato-clone-by-manan.netlify.app",
+    live: "https://zomato-clone-by-manan.vercel.app",
     github: "https://github.com/mananpadhiyar/zomato-clone",
   },
 
