@@ -41,7 +41,7 @@ export const projectData = [
     category: "design",
     tag: `#HTML #CSS `,
 
-    live: "https://buyhoney01.netlify.app",
+    live: "https://buyhoney-by-manan.netlify.app",
     github: "https://github.com/mananpadhiyar/buy_honey_website",
   },
 ];
