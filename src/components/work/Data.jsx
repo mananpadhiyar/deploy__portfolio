@@ -37,7 +37,7 @@ export const projectData = [
   {
     id: 4,
     image: work4,
-    title: "Weather App",
+    title: "Honey App",
     category: "design",
     tag: `#HTML #CSS `,
 
